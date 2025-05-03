@@ -43,7 +43,4 @@ function(input, output) {
     iris
   })
 
-  # output$irisData <- renderTable({
-  #   head(iris, 30)
-  # })
 }
